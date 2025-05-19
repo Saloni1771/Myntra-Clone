@@ -9,6 +9,7 @@ This project is a clone of the popular e-commerce website Myntra 2023. The first
 - Banner section with promotional images
 - Product categories section
 - Footer with category links
+![image](https://github.com/user-attachments/assets/74ce1316-356e-4b4a-9d51-d0c6f6a02e9f)
 
 ## Technologies Used
 - HTML
