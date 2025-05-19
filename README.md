@@ -1,5 +1,4 @@
 # Myntra-Clone
-# Myntra Clone
 
 ## Description
 This project is a clone of the popular e-commerce website Myntra 2023. The first home page has been built to showcase the layout and design similar to the original website.
